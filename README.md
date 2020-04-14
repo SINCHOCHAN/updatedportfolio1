@@ -6,9 +6,11 @@ SIN CHO CHAN : Updated Portfolio Website
 
 This is the link to the github repo:
 
-
+https://github.com/SINCHOCHAN/updatedportfolio1 
 
 This is the link to the live website:
+
+https://sinchochan.github.io/updatedportfolio1/
 
 
 
@@ -23,11 +25,10 @@ This is the link to the live website:
 - HTML, CSS and the Bootstrap framework.
 
 
-
 ### Screenshot
 
 ![About](./assets/images/aboutme.png "Screenshot of About Me page")
 
 ![Portfolio](./assets/images/projectlist.png "Screenshot of Portfolio page")
 
-![Contact](./assets/images/contact.png"Screenshot of Contact page")
+![Contact](./assets/images/contact.png "Screenshot of Contact page")
